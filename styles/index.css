@@ -1,3 +1,8 @@
+@import url("header.css");
+@import url("search.css");
+
 :root {
   --mainGradient: linear-gradient(to bottom, #002F52, #326589);
+  --mainFont: 'Poppins', sans-serif;
+  --whiteFont: #FFFFFF;
 }
