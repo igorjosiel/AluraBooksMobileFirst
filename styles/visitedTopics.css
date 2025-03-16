@@ -1,0 +1,31 @@
+.visited__section {
+  background: var(--mainGradient);
+  height: 260px;
+  text-align: center;
+}
+
+.visited__section__title,
+.visited__section__topics > a {
+  font-family: var(--mainFont);
+  color: var(--whiteFont);
+}
+
+.visited__section__title {
+  font-size: 1rem;
+  font-weight: 300;
+  padding: 25px 0 30px;
+}
+
+.visited__section__topics {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.visited__section__topics > a {
+  font-weight: 700;
+  background-color: var(--orangeColor);
+  padding: 16px 18px;
+  text-decoration: none;
+}

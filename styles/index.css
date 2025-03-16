@@ -1,8 +1,12 @@
 @import url("header.css");
 @import url("search.css");
+@import url("visitedTopics.css");
+@import url("news.css");
 
 :root {
   --mainGradient: linear-gradient(to bottom, #002F52, #326589);
   --mainFont: 'Poppins', sans-serif;
   --whiteFont: #FFFFFF;
+  --orangeColor: #EB9B00;
+  --darkBlueColor: #002F52;
 }
