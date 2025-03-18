@@ -1,5 +1,6 @@
 @import url("header.css");
 @import url("search.css");
+@import url("content.css");
 @import url("visitedTopics.css");
 @import url("news.css");
 @import url("footer.css");
@@ -11,4 +12,5 @@
   --orangeColor: #EB9B00;
   --darkBlueColor: #002F52;
   --blackColor: #000000;
+  --lightGray: #F9F9F9;
 }
